@@ -1,18 +1,43 @@
-# FlipLight
+# ?FlipLight – Firefox Appearance Mode Switcher
 
-Quickly toggle **Light / Dark / Automatic** color-schemes for every site in Firefox.
-Powered by `browserSettings.overrideContentColorScheme`, so it works instantly without injecting CSS or reloading pages.
-
-- 100 % _WebExtension Manifest v3_
-- **Zero** content-script overhead
-- Tiny footprint (~1 KB code)
-
+**FlipLight** is a lightweight Firefox extension that lets you quickly switch the browser's appearance between **Light**, **Dark**, and **Automatic** modes — directly from your toolbar.
 
 ---
 
-## Installation
+## Features
 
-Firefox try-out (temporary)
+- One-click toggle between Light, Dark, and Auto
+- Remembers your last preference
+- Clean and minimal popup UI
 
-```text
-about:debugging → This Firefox → Load Temporary Add-on… → select manifest.json
+---
+
+---
+
+## 🧩 Installation
+
+### 🦊 Temporary (Development/Test)
+
+1. Open Firefox and go to `about:debugging`
+2. Click on **"This Firefox"**
+3. Click **"Load Temporary Add-on…"**
+4. Select the `manifest.json` file from this repo
+
+> ⚠️ This is for development only. It will be removed when Firefox restarts.
+
+---
+
+## 🛠️ Build Instructions
+
+### Requirements
+
+- OS: Linux/macOS (Windows via WSL or Git Bash)
+- Tools: `bash`, `zip` (pre-installed on most Unix systems)
+
+### Steps
+
+```bash
+git clone https://github.com/yourusername/FlipLight.git
+cd FlipLight
+chmod +x build.sh
+./build.sh
