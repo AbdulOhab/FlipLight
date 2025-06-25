@@ -1,0 +1,4 @@
+How to Build Extention:
+1. install: npm install -g web-ext
+2. Firefox extension dev run: web-ext run
+3. Build: web-ext build
