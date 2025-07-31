@@ -1,4 +1,4 @@
-# ?FlipLight – Firefox Appearance Mode Switcher
+# FlipLight – Firefox Appearance Mode Switcher
 
 **FlipLight** is a lightweight Firefox extension that lets you quickly switch the browser's appearance between **Light**, **Dark**, and **Automatic** modes — directly from your toolbar.
 
@@ -11,9 +11,6 @@
 - Clean and minimal popup UI
 
 ---
-
----
-
 ## 🧩 Installation
 
 ### 🦊 Temporary (Development/Test)
