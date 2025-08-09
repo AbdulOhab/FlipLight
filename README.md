@@ -2,6 +2,8 @@
 
 **FlipLight** is a lightweight Firefox extension that lets you quickly switch the browser's appearance between **Light**, **Dark**, and **Automatic** modes — directly from your toolbar.
 
+![FlipLight Screenshot](image/Screenshot.png)
+
 ---
 
 ## Features
