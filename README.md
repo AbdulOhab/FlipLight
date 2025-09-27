@@ -15,7 +15,7 @@
 
 ---
 
-## ✨ What is FlipLight?
+## What is FlipLight?
 
 **FlipLight** is a lightweight Firefox extension that lets you quickly switch your browser's appearance between **Light**, **Dark**, and **Automatic** modes directly from your toolbar — no need to dig through settings menus!
 
@@ -37,7 +37,7 @@
 3. Confirm installation
 4. Look for the  icon in your toolbar!
 
-### 🔧For Developers (Temporary)
+### For Developers (Temporary)
 
 1. Download this repository
 2. Open Firefox and navigate to `about:debugging`
@@ -49,7 +49,7 @@
 
 ## How to Use
 
-1. **Click the FlipLight icon** 🔦 in your toolbar
+1. **Click the FlipLight icon** in your toolbar
 2. **Choose your preferred mode:**
    - **Light** — Bright theme for daytime browsing
    - **Dark** — Easy on the eyes for night sessions  
@@ -57,15 +57,11 @@
 
 That's it! Your preference is saved automatically.
 
-## 🛠️ Build Instructions
+## Build Instructions
 
 ### Prerequisites
 - **OS:** Linux/macOS (Windows via WSL or Git Bash)
 - **Tools:** `bash`, `zip` (pre-installed on most systems)
-
-### Build Steps
-
-This will create a `fliplight-{version}.zip` file ready for installation or distribution.
 
 ## Contributing
 
